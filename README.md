@@ -31,9 +31,7 @@ Being a member of team Crites has several innate requirements.
  * Questions you arrive at from working on client projects make perfect Stackoverflow questions.
  * Asking a question on SO does not preclude you from asking on #javascript and vice versa
 5. Team Crites will maintain at least one active open source project. All members are encouraged to actively contribute in their free time in any way possible. This includes coming up with ideas / design / QA / documentation, and of course, coding. There are no hard requirements for this -- we do it because we love it.
-6. Testing, testing, testing! Team Crites developers will be leaders with respect to automated testing.
- > We didn't have time to write tests
- Is a phrase that puzzles us.
+6. Testing, testing, testing! Team Crites developers will be leaders with respect to automated testing. `We didn't have time to write tests` is a phrase that confounds us.
 7. **Above all else**, Team Crites members will make client work a priority. We will be desired as developers on projects above any other developer in the organization -- even the world!
 
 ## What you get from me
