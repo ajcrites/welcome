@@ -1,6 +1,8 @@
 # Team Crites
 
-Team Crites comprises the upper echelon of Mobiquity web developers -- without question.  To be a part of Team Crites means to eat, sleep, and breathe JavaScript.  A Team Crites developer's strength extends beyond his platform. We all have the potential to be teachers, architects, leaders, managers, and anything we can dream of. This is true not only because of our talent but because of our loyalty to each other and willingness to teach each other.
+Team Crites comprises the upper echelon of Mobiquity web developers -- *without question*.  To be a part of Team Crites means to eat, sleep, and breathe JavaScript.  A Team Crites developer's strength extends beyond his platform. We all have the potential to be teachers, architects, leaders, managers, and anything we can dream of. This is true not only because of our talent but because of our loyalty to each other and willingness to teach each other.
+
+We're all stunners, studs, superstars, slayers, and *legends*.
 
 The following are guidelines for being a fruitful member of Team Crites. I encourage you to follow these guidelines, and I will consistently follow up with them as well.
 
