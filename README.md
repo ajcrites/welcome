@@ -31,7 +31,8 @@ Being a member of team Crites has several innate requirements.
  * Questions you arrive at from working on client projects make perfect Stackoverflow questions.
  * Asking a question on SO does not preclude you from asking on #javascript and vice versa
 5. Team Crites will maintain at least one active open source project. All members are encouraged to actively contribute in their free time in any way possible. This includes coming up with ideas / design / QA / documentation, and of course, coding. There are no hard requirements for this -- we do it because we love it.
-6. Above all else, Team Crites members will make client work a priority. We will be desired as developers on projects above any other developer in the organization -- even the world!
+6. Testing, testing, testing! Team Crites developers will be leaders with respect to automated testing.
+7. **Above all else**, Team Crites members will make client work a priority. We will be desired as developers on projects above any other developer in the organization -- even the world!
 
 ## What you get from me
 
@@ -53,6 +54,38 @@ Ultimately, I want you to be better developers than I am. While this is personal
 * Team Crites members will be models in the Gainesville office. I would like you all to be good stewards and regularly maintain your areas / common areas you use. When we all work together to do this, it makes the job easier.
 * We will work to improve the office as a whole -- aesthetically and functionally -- as best we can.
 * We will be teachers in the office. MobTalks, meetups, and Slack participation with some regularity are all strongly encouraged.
+* Healthy competition! I want you all to make each other work for the next goal. Show up your teammate and then wait for him to improve on what you did and show you up. I can't wait to participate in this too.
+ * This is a *terrible* example that no one will get, but I've though about it for a long time. In [Breath of Fire 4](https://en.wikipedia.org/wiki/Breath_of_Fire_IV) there is an enemy called the `Lavoid`. If you hit a `Lavoid` with :fire: attacks, it gets exponentially stronger. I think of myself as a `Lavoid`, and I want you all to be `Lavoid`s.  That is to say, when someone improves on your code, you take that and you make it even better. Then, someone comes in and makes that better. We asymptotically improve each other until we're all so strong that it becomes overwhelming to challenge us.
 * **Never** have someone complain to me about you. I only want to hear compliments about you from others. This is a lot to ask, but I personally believe you can all fulfill this.
 
 If you are ever overwhelmed in any way, you can talk to me about that too. You are all capable, and I feel you should be comfortable in your jobs. You should be excelling. I'm striving to make you succeed, and I want to combat any obstacles with you.
+
+## The Fun Stuff
+
+I want us to make being a member of Team Crites an enviable position. Let's organize and participate in:
+
+* Community outreach
+* Software meetups
+* Sports activities
+* Cultural explorations
+* Competitions
+* Parties
+
+I have very strict and tough requirements for each of you that I know you can excel. On the other hand, I want (optional) fun to be available to all of you in your personal lives, and I want you to be fulfilled in them as well. ***Let's go Team Crites!***
+
+## Wisdom
+
+Here are some palliative cliches that I've clung to as I've progressed as a software developer:
+
+> The only ones who never fail are those who never try
+
+We all screw up sometimes. You'll never get a story out of "I decided not to do it." -- As long as it's not criminal.
+
+> He who asks is a fool for five minutes.  He who does not ask remains a fool forever.
+
+It's better to be vulnerable and admit you don't know something so that you can learn it rather than go through life not understanding it. *I will personally* defend someone who admits they don't know something in the face of criticism.
+
+> If you can't explain it simply, you don't understand it well enough
+
+Inside of every well written large program is a well written small program. Understanding things takes time. Being able to explain something properly is an science, and the distillation of difficult concepts is an art. Writing  systems that are simpler to consume is more complex and difficult than writing more complicated systems in many cases.
+
