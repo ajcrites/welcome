@@ -41,6 +41,7 @@ Being a member of team Crites has several innate requirements.
 This is an incomplete list of what I want to offer to Team Crites
 
 * Talk to me about anything -- no topic is off limits
+ * I am never too busy to meet with any of you individually or as a group
 * I will help with any projects -- client, open source, or personal -- in any way that I can
 * I *want* you to succeed in your requirements, so I will work to make sure that you do
 * **I am not above criticism** -- as a developer or a manager
@@ -91,3 +92,6 @@ It's better to be vulnerable and admit you don't know something so that you can 
 
 Inside of every well written large program is a well written small program. Understanding things takes time. Being able to explain something properly is an science, and the distillation of difficult concepts is an art. Writing  systems that are simpler to consume is more complex and difficult than writing more complicated systems in many cases.
 
+> On two occasions I have been asked, "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" ... I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+
+One of my favorite quotes from the *original* computer scientist. People think computers are magical. They aren't. Let's keep trying to convince them that they are.
