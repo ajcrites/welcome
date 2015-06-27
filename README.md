@@ -25,6 +25,7 @@ Being a member of team Crites has several innate requirements.
  * Ask me if you want help setting up a blog or get writer's block.
 3. Contributing to open source is a requirement for any modern developer. Team Crites members will contribute to open source projects at least a couple times a month. *Any* open source project is an acceptable target, and you should share your contributions to the team. You may participate in a variety of ways:
  * Pull requests (the king of contributions)
+   * Even if your pull request is unmerged, it still counts as a contribution.
  * Creating issues / testing
  * Improving documentation
 4. Participation on [Stackoverflow](http://stackoverflow.com/) is a personal passion of mine. I expect *all* members of Team Crites to maintain active Stackoverflow accounts.  I encourage you to participate as much as possible, but minimaly you should contribute a post (question or answer) at least a couple times a month.
