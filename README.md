@@ -17,8 +17,8 @@ Being a member of team Crites has several innate requirements.
  * Submitting blog posts (you've read or written)
  * Starting or participating in discussions -- even inflammatory ones
  * Code samples, especially repos or gists.
-  *[`gistup-norepo`](https://www.npmjs.com/package/gistup-norepo) makes creating gists easy!
-  * Mobiquity project code samples/questions are acceptable. We are all under NDA.
+    * [`gistup-norepo`](https://www.npmjs.com/package/gistup-norepo) makes creating gists easy!
+    * Mobiquity project code samples/questions are acceptable. We are all under NDA.
  * Sharing new technologies, especially ones you have worked with or are curious about.
  * Anything else you can think of.
 2. Blogging is important, but it can be difficult.  At least one thoughtful blog post every couple months is encouraged.  This can be entirely extraneous to work and even technology.  Blog about TV, politics, nature, or whatever you are passionate about. Obviously, blogging about software is perfectly applicable.
