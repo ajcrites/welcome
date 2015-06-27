@@ -29,7 +29,7 @@ Being a member of team Crites has several innate requirements.
    * Even if your pull request is unmerged, it still counts as a contribution.
  * Creating issues / testing
  * Improving documentation
-4. Participation on [Stackoverflow](http://stackoverflow.com/) is a personal passion of mine. I expect *all* members of Team Crites to maintain active Stackoverflow accounts.  I encourage you to participate as much as possible, but minimaly you should contribute a post (question or answer) at least a couple times a month.
+4. Participation on [Stackoverflow](http://stackoverflow.com/) is a personal passion of mine. I expect *all* members of Team Crites to maintain active Stackoverflow accounts.  I encourage you to participate as much as possible, but minimaly you should contribute a post (question or answer) *at least* five times a month. As you get more privileges, you can participate by editing and flagging too.
  * Ask me if you have questions about participating in Stackoverflow
  * Asking a question you already know the answer to -- and even answering it -- is acceptable.  This still helps the community.
  * Questions you arrive at from working on client projects make perfect Stackoverflow questions.
