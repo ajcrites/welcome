@@ -32,3 +32,27 @@ Being a member of team Crites has several innate requirements.
  * Asking a question on SO does not preclude you from asking on #javascript and vice versa
 5. Team Crites will maintain at least one active open source project. All members are encouraged to actively contribute in their free time in any way possible. This includes coming up with ideas / design / QA / documentation, and of course, coding. There are no hard requirements for this -- we do it because we love it.
 6. Above all else, Team Crites members will make client work a priority. We will be desired as developers on projects above any other developer in the organization -- even the world!
+
+## What you get from me
+
+This is an incomplete list of what I want to offer to Team Crites
+
+* Talk to me about anything -- no topic is off limits
+* I will help with any projects -- client, open source, or personal -- in any way that I can
+* I *want* you to succeed in your requirements, so I will work to make sure that you do
+* **I am not above criticism** -- as a developer or a manager
+
+## What I want from you
+
+Ultimately, I want you to be better developers than I am. While this is personal, I want you to help the team!
+
+* All Team Crites members will treat others with respect
+ * No one is above a job.
+ * Correct someone when they are in error. This does not devalue them.
+ * Discussion is important. There are many solutions to a problem.
+* Team Crites members will be models in the Gainesville office. I would like you all to be good stewards and regularly maintain your areas / common areas you use. When we all work together to do this, it makes the job easier.
+* We will work to improve the office as a whole -- aesthetically and functionally -- as best we can.
+* We will be teachers in the office. MobTalks, meetups, and Slack participation with some regularity are all strongly encouraged.
+* **Never** have someone complain to me about you. I only want to hear compliments about you from others. This is a lot to ask, but I personally believe you can all fulfill this.
+
+If you are ever overwhelmed in any way, you can talk to me about that too. You are all capable, and I feel you should be comfortable in your jobs. You should be excelling. I'm striving to make you succeed, and I want to combat any obstacles with you.
