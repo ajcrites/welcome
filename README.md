@@ -92,7 +92,7 @@ It's better to be vulnerable and admit you don't know something so that you can 
 
 > If you can't explain it simply, you don't understand it well enough
 
-Inside of every well written large program is a well written small program. Understanding things takes time. Being able to explain something properly is an science, and the distillation of difficult concepts is an art. Writing  systems that are simpler to consume is more complex and difficult than writing more complicated systems in many cases.
+Inside of every well written large program is a well written small program. Understanding things takes time. Being able to explain something properly is a science, and the distillation of difficult concepts is an art. Writing  systems that are simpler to consume is more complex and difficult than writing more complicated systems in many cases.
 
 > On two occasions I have been asked, "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" ... I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
