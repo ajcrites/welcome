@@ -8,7 +8,8 @@ The following are guidelines for being a fruitful member of Team Crites. I encou
 
 Being a member of team Crites has several innate requirements.
 
-0. Andrew Crites (aka Explosion Pills) subjects himself to *at least* the same standards as all other teammates
+<ol start=0>
+<li>Andrew Crites (aka Explosion Pills) subjects himself to *at least* the same standards as all other teammates
 1. We are leaders and teachers in our platform.  Participate in the #javascript channel on Slack as frequently as you can. Participation in other channels is encouraged -- particularly with respect to technologies you are passionate about. At least once every two weeks is a good minimum ... once a week is a good metric.  No contribution is too small or too stupid. Participation may include
  * Asking questions
  * Submitting blog posts (you've read or written)
