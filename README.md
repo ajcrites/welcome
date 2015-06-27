@@ -23,6 +23,7 @@ Being a member of team Crites has several innate requirements.
  * Anything else you can think of.
 2. Blogging is important, but it can be difficult.  At least one thoughtful blog post every couple months is encouraged.  This can be entirely extraneous to work and even technology.  Blog about TV, politics, nature, or whatever you are passionate about. Obviously, blogging about software is perfectly applicable.
  * Ask me if you want help setting up a blog or get writer's block.
+ * I will personally read **all** your blog posts.
 3. Contributing to open source is a requirement for any modern developer. Team Crites members will contribute to open source projects at least a couple times a month. *Any* open source project is an acceptable target, and you should share your contributions to the team. You may participate in a variety of ways:
  * Pull requests (the king of contributions)
    * Even if your pull request is unmerged, it still counts as a contribution.
